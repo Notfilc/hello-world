@@ -4,3 +4,5 @@ Newbie dips his toes ...
 
   ... his Son said that GitHub is good, so he thought he'd give it a try
   
+    ... people at work say GitHub is a good thing too
+    
